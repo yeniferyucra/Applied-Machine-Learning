@@ -4,3 +4,6 @@ numpy
 scikit-learn
 matplotlib
 streamlit-option-menu
+joblib  
+xgboost  
+lightgbm 
